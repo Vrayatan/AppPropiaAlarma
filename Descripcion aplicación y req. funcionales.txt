@@ -1,0 +1,14 @@
+Diseño aplicación
+
+1. Se diseña una aplicación que consiste en recordarle periodicamente al usuario sobre si tiene algún compromiso o reunión nueva.
+2. Inmediatamente la aplicación crea alarmas para ese día (configuradas por el usuario) para que no se olvide de su compromiso.
+3. El publico objetivo de esta aplicación es gente con muchas reuniónes a lo largo del día, que necesita ayuda a lo largo del día para recordarlas.
+
+Requerimientos funcionales:
+
+1. Creación de una configuración general a partir de las opciones escogidas por el usuario.
+2. Creación de configuraciones especificas para cada alarma para establecer hora y duración.
+3. Capacidad de preguntar, a través de lo establecido en el primer requerimiento, en distintos momentos a lo largo del día si se ha de establecer una nueva alarma.
+4. Una interfaz que muestre las alarmas existentes, pasadas y que pueda generar nuevas alarmas.
+5. Capacidad de ejecutar un alarma en el horario establecido. 
+6. Capacidad de ser detenida.
