@@ -14,12 +14,11 @@ public class Menu extends AppCompatActivity {
         setContentView(R.layout.activity_menu);
     }
 
-
+    //Funciones de navegación
     public void Nueva(View v) {
         Intent siguiente = new Intent(this, Nueva.class);
         startActivity(siguiente);
     }
-
     public void Config(View v) {
         Intent siguiente = new Intent(this, Configurar.class);
         startActivity(siguiente);
@@ -28,5 +27,7 @@ public class Menu extends AppCompatActivity {
         Intent siguiente = new Intent(this, Historial.class);
         startActivity(siguiente);
     }
+
+    //Andrea tkm
 
 }
