@@ -20,5 +20,6 @@
     <string name="establecer_hora_y_fecha">Establecer hora y fecha</string>
     <string name="mostrar_historial_de_alarmas">Mostrar Historial de Alarmas</string>
     <string name="mostrar_pr_ximas_alarmas">Mostrar Próximas Alarmas</string>
+    <string name="version_de_prueba">VERSION DE PRUEBA</string>
 
 </resources>
