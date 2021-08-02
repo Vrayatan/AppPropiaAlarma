@@ -9,7 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppPropiaAlarma">
-        <activity android:name=".MainActivity">
+        <activity android:name=".Historial"></activity>
+        <activity android:name=".Configurar" />
+        <activity android:name=".Nueva" />
+        <activity
+            android:name=".Menu"
+            android:label="@string/title_activity_menu"
+            android:theme="@style/Theme.AppPropiaAlarma.NoActionBar" />
+        <activity android:name=".Config" />
+        <activity android:name=".Main">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

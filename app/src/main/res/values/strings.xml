@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">AppPropiaAlarma</string>
+    <string name="InicioNombre">Alarmizator</string>
+    <string name="configurar_alarmizator">Configurar Alarmizator</string>
+    <string name="historial_de_alarmas">Historial de Alarmas</string>
+    <string name="nueva_alarma">Nueva Alarma</string>
+    <string name="title_activity_menu">Menu</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="configurar_nueva_alarma">Configurar nueva alarma</string>
+    <string name="volver_a_men_principal">Volver a menú principal</string>
+    <string name="proximas_alarmas">proximas alarmas</string>
+    <string name="guardar_alarma">Guardar alarma</string>
+    <string name="establecer_hora_y_fecha">Establecer hora y fecha</string>
+    <string name="mostrar_historial_de_alarmas">Mostrar Historial de Alarmas</string>
+    <string name="mostrar_pr_ximas_alarmas">Mostrar Próximas Alarmas</string>
+
 </resources>
